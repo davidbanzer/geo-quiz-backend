@@ -3,8 +3,13 @@ Proyecto de la materia de Gamificación y Programación Funcional. API hecha con
 
 ## Pasos para instalar y ejecutar el proyecto
 - Crear un entorno virtual 
-`python -m venv venv`
-- Activar el entorno virtual con .\venv\Scripts\activate
+```
+python -m venv venv
+```
+- Activar el entorno virtual
+```
+.\venv\Scripts\activate
+```
 - Asegurarse de tener el pip actualizado para evitar errores
 ```
 python -m pip install --upgrade pip
