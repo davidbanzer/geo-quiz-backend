@@ -1,5 +1,7 @@
 # Geo Quiz
-Backend del proyecto Geo Quiz. API hecha con Django Rest Framework (DRF)
+Backend del proyecto Geo Quiz. 
+
+API hecha con Django Rest Framework (DRF)
 
 ## Pasos para instalar y ejecutar el proyecto
 Crear un entorno virtual 
