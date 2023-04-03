@@ -1,4 +1,4 @@
-# Geo Quiz
+# Geo Quiz Backend
 Backend del proyecto Geo Quiz. 
 
 API hecha con Django Rest Framework (DRF)
